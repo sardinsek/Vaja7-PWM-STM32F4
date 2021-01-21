@@ -8,4 +8,4 @@ Ukazi 1., 2. in 3. vrstice v user code begin 3 počnejo naslednje:
 # 1.	Nastavi spremenljivko dutyCycle za dyuty cycle.
 # 2.	Spremenljivki dutyCycle prišteje 10.
 # 3.	Če spremenljivka dutyCycle preseže 90, jo ponastavi na 10.
-# Komentar 
+# Komentar: Osciloskop prikaže PWM signal iz STM32F4 Discovery. Osciloskop je zelo preprosto nastaviti in tudi odčitati podatke iz njega je zelo preprosto. Potrebno je samo paziti, da pravilno nastavimo vse parametre v STM32CubeIDE, zato ker če jih ne nastavimo pravilno potem na izhodu ne dobimo pravega signala in ne moremo pravilno odčitati podatkov.
