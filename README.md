@@ -8,3 +8,4 @@ Ukazi 1., 2. in 3. vrstice v user code begin 3 počnejo naslednje:
 # 1.	Nastavi spremenljivko dutyCycle za dyuty cycle.
 # 2.	Spremenljivki dutyCycle prišteje 10.
 # 3.	Če spremenljivka dutyCycle preseže 90, jo ponastavi na 10.
+# Komentar 
